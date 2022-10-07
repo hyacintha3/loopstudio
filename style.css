@@ -84,10 +84,40 @@ margin-left: 50px;
 }
 #space{
     height: 70vh;
-    width: 245px;
-}
+    width: 245px; 
+} 
 .pcs2{
     display: flex;
     gap: 9px;
     margin-left: 50px;
     }
+    .four{
+        background-color: black;
+        display: flex;
+    }
+  .ends ul li{
+    color: white;
+    text-decoration: none; 
+    list-style-type: none;
+    display: flex;
+
+ }
+  .ends ul{
+    display: flex;
+    gap: 15px;
+ }
+ .endss{
+    margin-left: 500px;
+    margin-top:20px ;
+    gap: 4px;
+ }
+ .endss p{
+    color: white;
+ }
+ /* #P1{
+    background-image:url(./images/desktop/image-deep-earth.jpg);
+    background-size: cover;
+    height: 70vh;
+    width: 245px;
+ } */
+ 
